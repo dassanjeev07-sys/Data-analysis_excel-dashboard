@@ -12,3 +12,5 @@ Performance Metrics: Highlighted top contributors to revenue and order volume, m
 Excel pivot tables for dynamic data aggregation.
 Conditional formatting and slicers for easy filtering and drill-down analysis.
 Charts and KPIs for intuitive visualization of sales trends.
+## Dashboard
+- <a href = "https://github.com/dassanjeev07-sys/Data-analysis_excel-dashboard/blob/main/Dashboard.PNG">Dashboard_image
