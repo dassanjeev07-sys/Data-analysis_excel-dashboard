@@ -15,4 +15,7 @@ Charts and KPIs for intuitive visualization of sales trends.
 ## Dashboard
 - <a href = "https://github.com/dassanjeev07-sys/Data-analysis_excel-dashboard/blob/main/Dashboard.PNG">Dashboard_image
 ## Dashboard_interaction
--<a href = "<img width="765" height="233" alt="Dashboard" src="https://github.com/user-attachments/assets/1fbf74d5-e57d-4bfb-b5d5-dcbade03fa6d" />
+Dashboard_interaction = "<img width="765" height="233" alt="Dashboard" src="https://github.com/user-attachments/assets/1fbf74d5-e57d-4bfb-b5d5-dcbade03fa6d" />
+
+## Conclusion:
+The sales data analysis dashboard provided a clear and structured view of Vrinda Store’s sales performance. By converting raw data into interactive visualizations, the dashboard highlighted top-performing states, customer purchase behavior by gender, and order status patterns. This improved transparency in business performance and created a reliable tool for quick decision-making.
