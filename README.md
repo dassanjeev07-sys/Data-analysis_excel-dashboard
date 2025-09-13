@@ -14,3 +14,5 @@ Conditional formatting and slicers for easy filtering and drill-down analysis.
 Charts and KPIs for intuitive visualization of sales trends.
 ## Dashboard
 - <a href = "https://github.com/dassanjeev07-sys/Data-analysis_excel-dashboard/blob/main/Dashboard.PNG">Dashboard_image
+## Dashboard_interaction
+-<a href = "<img width="765" height="233" alt="Dashboard" src="https://github.com/user-attachments/assets/1fbf74d5-e57d-4bfb-b5d5-dcbade03fa6d" />
